@@ -1,4 +1,4 @@
-# Just-For-Fun Projects: Forecasting EAI
+# Macroeconomic Time Series Analysis: Forecasting EAI
 
 This repository contains R code to perform time series analysis and forecasting of the Puerto Rico Economic Activity Index (EAI) from January 1980 to February 2025. The analysis includes unit root tests (Augmented Dickey-Fuller and Phillips-Perron) to check for stationarity, followed by estimating an ARIMA model to forecast the EAI for the next 12 months.
 
