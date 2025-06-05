@@ -1,11 +1,11 @@
 # Local Projections Project ------------------------------------------------------
 
 # Install and Load Packages ------------------------------------------------------
-if (!require(tseries)) install.packages("sandwich")
-if (!require(forecast)) install.packages("lmtest")
+if (!require(sandwich)) install.packages("sandwich")
+if (!require(lmtest)) install.packages("lmtest")
 if (!require(readxl)) install.packages("readxl")
 if (!require(ggplot2)) install.packages("ggplot2")
-if (!require(ggplot2)) install.packages("dplyr")
+if (!require(dplyr)) install.packages("dplyr")
 
 library(sandwich)
 library(lmtest)
